@@ -6,13 +6,13 @@ body {
   background-color: white;
   color: black;
   font-family: Verdana;
-  cursor: url('assets/cursor.png', default);
+  cursor: url('./assets/cursor.png', default);
 } 
 
 .cabecera {
   text-align: center;
   background-color: #9DB5B2;
-  cursor: url('assets/lectura.png', text);
+  cursor: url('./assets/lectura.png', text);
 }
 
 a{
